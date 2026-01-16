@@ -1,0 +1,7 @@
+{
+  "name": "VibeCheck Ticketing",
+  "description": "A world-class event ticketing and social discovery app featuring smart artist recommendations and interactive social feeds.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
